@@ -1,4 +1,22 @@
-[
+{
+  ads: [
+  {
+  "thumbnail":"https://pbs.twimg.com/media/GGsmphRXQAEdeDr?format=jpg&name=4096x4096",
+  "url":"/wave-solution",
+  "slug": "wave-solution-promo",
+  },
+{
+  "thumbnail":"https://pbs.twimg.com/media/GGxjG5fWMAA-1-x?format=jpg&name=large",
+  "url":"#",
+  "slug": "atmos-wasteman-partnership",
+  },
+{
+  "thumbnail":"https://pbs.twimg.com/media/GGdAotEXAAAVV1_?format=jpg&name=large",
+  "url":"#",
+  "slug": "business-solution-acceleration-with-atmos",
+  },
+  ]
+  blog_posts: [
   {
     "title": "10 Tips for Successful Remote Work",
     "author": "John Doe",
@@ -53,3 +71,4 @@
     "cover": false,
   },
 ]
+}
