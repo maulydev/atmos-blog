@@ -1,9 +1,19 @@
 {
   "ads": [
     {
-      "ads_id": "AD123",
+      "ads_id": "AD001",
       "thumbnail": "https://pbs.twimg.com/media/GGsmphRXQAEdeDr?format=jpg&name=4096x4096",
       "url": "/wave-solution"
+    },
+     {
+      "ads_id": "AD002",
+      "thumbnail": "https://pbs.twimg.com/media/GGxjG5fWMAA-1-x?format=jpg&name=small",
+      "url": ""
+    },
+     {
+      "ads_id": "AD003",
+      "thumbnail": "https://pbs.twimg.com/media/GGdAotEXAAAVV1_?format=jpg&name=small",
+      "url": ""
     }
   ],
 
