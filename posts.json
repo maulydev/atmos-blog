@@ -1,5 +1,5 @@
 {
-  ads: [
+  "ads": [
   {
   "thumbnail":"https://pbs.twimg.com/media/GGsmphRXQAEdeDr?format=jpg&name=4096x4096",
   "url":"/wave-solution",
@@ -15,8 +15,8 @@
   "url":"#",
   "slug": "business-solution-acceleration-with-atmos",
   },
-  ]
-  blog_posts: [
+  ],
+  "blog_posts": [
   {
     "title": "10 Tips for Successful Remote Work",
     "author": "John Doe",
