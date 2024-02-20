@@ -1,5 +1,4 @@
-{
-  "blog_posts": [
+[
     {
       "title": "10 Tips for Successful Remote Work",
       "author": "John Doe",
@@ -31,4 +30,3 @@
       "content": "In this blog post, we discuss 10 essential tips for successful remote work. From setting up a dedicated workspace to maintaining regular communication with your team, these tips will help you stay productive and engaged while working from home."
     },
   ]
-}
