@@ -5,6 +5,7 @@
     "date": "2023-05-15",
     "content":
       "In this blog post, we discuss 10 essential tips for successful remote work. From setting up a dedicated workspace to maintaining regular communication with your team, these tips will help you stay productive and engaged while working from home.",
+    "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dGVjaHxlbnwwfHwwfHx8MA%3D%3D",
   },
   {
     "title": "The Future of Artificial Intelligence",
@@ -33,11 +34,13 @@
     "date": "2023-05-15",
     "content":
       "In this blog post, we discuss 10 essential tips for successful remote work. From setting up a dedicated workspace to maintaining regular communication with your team, these tips will help you stay productive and engaged while working from home.",
+    "image": "https://images.unsplash.com/photo-1485988412941-77a35537dae4?q=80&w=1496&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     "title": "The Future of Artificial Intelligence",
     "author": "Jane Smith",
     "date": "2023-07-28",
     "content": "Artificial intelligence is advancing rapidly, shaping various industries and impacting our daily lives. In this post, we explore the current state of AI technology and discuss its potential future applications, along with the ethical considerations surrounding its development.",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dGVjaHxlbnwwfHwwfHx8MA%3D%3D",
   },
 ]
